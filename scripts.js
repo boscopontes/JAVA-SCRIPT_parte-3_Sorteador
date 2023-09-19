@@ -11,4 +11,3 @@ function generateNumber(){
         alert(result)
     }
 }
-
